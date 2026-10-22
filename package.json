@@ -1,0 +1,29 @@
+{
+  "name": "gozem-ai-support-agent",
+  "version": "1.0.0",
+  "description": "Multi-Agent Customer Support System for Gozem (Super-App) using TypeScript, Fastify and AWS Bedrock",
+  "main": "dist/server.js",
+  "scripts": {
+    "dev": "tsx watch src/server.ts",
+    "test:cli": "tsx src/cli-test.ts",
+    "test:atelier1": "tsx src/atelier1-routing/test-atelier1.ts",
+    "test:toolkit": "tsx src/core/test-toolkit.ts",
+    "test:state": "tsx src/core/test-state.ts",
+    "build": "tsc",
+    "start": "node dist/server.js"
+  },
+  "keywords": ["gozem", "multi-agent", "fastify", "typescript", "aws-bedrock", "claude"],
+  "author": "Teddy AMAÏZO",
+  "license": "MIT",
+  "dependencies": {
+    "@aws-sdk/client-bedrock-runtime": "^3.750.0",
+    "dotenv": "^16.4.7",
+    "fastify": "^5.2.1",
+    "zod": "^3.24.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.4",
+    "tsx": "^4.19.3",
+    "typescript": "^5.7.3"
+  }
+}
