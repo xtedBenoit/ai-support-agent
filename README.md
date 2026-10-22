@@ -1,6 +1,6 @@
-# 🚕 Gozem AI Support Agent — Système Multi-Agents (TypeScript & Fastify)
+# 🤖 AI Support Agent — Système Multi-Agents (TypeScript & Fastify)
 
-> Projet transposant l'architecture de coordination multi-agents séquentielle (**AWS AI & Agent Engineer**) vers une pile moderne **TypeScript + Node.js (Fastify)**, adaptée aux spécificités opérationnelles d'une super-app comme **Gozem** (Transport VTC/Zem, Livraison et Mobile Money en Afrique de l'Ouest).
+> Projet transposant l'architecture de coordination multi-agents séquentielle (**AWS AI & Agent Engineer**) vers une pile moderne **TypeScript + Node.js (Fastify)** pour le support client d'une super-app et plateforme e-commerce (Transport VTC, Livraison, Facturation et Mobile Money).
 
 ---
 

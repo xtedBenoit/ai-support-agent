@@ -1,7 +1,7 @@
 {
-  "name": "gozem-ai-support-agent",
+  "name": "ai-support-agent",
   "version": "1.0.0",
-  "description": "Multi-Agent Customer Support System for Gozem (Super-App) using TypeScript, Fastify and AWS Bedrock",
+  "description": "Multi-Agent Customer Support System & Toolkit on AWS Bedrock (TypeScript, Fastify, Strands, DynamoDB, Memory)",
   "main": "dist/server.js",
   "scripts": {
     "dev": "tsx watch src/server.ts",
