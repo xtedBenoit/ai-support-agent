@@ -6,5 +6,7 @@ export * from './cascadingRouter.js';
 export * from './stateStore.js';
 export * from './governance.js';
 export * from './productionArchitecture.js';
+export * from './gateway.js';
+
 
 

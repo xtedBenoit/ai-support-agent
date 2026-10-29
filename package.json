@@ -11,6 +11,7 @@
     "test:state": "tsx src/core/test-state.ts",
     "test:governance": "tsx src/core/test-governance.ts",
     "test:production": "tsx src/core/test-production.ts",
+    "test:gateway": "tsx src/core/test-gateway.ts",
     "build": "tsc",
     "start": "node dist/server.js"
   },
