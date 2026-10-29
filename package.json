@@ -9,6 +9,7 @@
     "test:atelier1": "tsx src/atelier1-routing/test-atelier1.ts",
     "test:toolkit": "tsx src/core/test-toolkit.ts",
     "test:state": "tsx src/core/test-state.ts",
+    "test:governance": "tsx src/core/test-governance.ts",
     "build": "tsc",
     "start": "node dist/server.js"
   },

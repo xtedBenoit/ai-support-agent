@@ -4,3 +4,5 @@ export * from './audit.js';
 export * from './guardrail.js';
 export * from './cascadingRouter.js';
 export * from './stateStore.js';
+export * from './governance.js';
+
